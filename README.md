@@ -1,1 +1,3 @@
 # lethargick
+
+IMAP IDLE + Sync
